@@ -1,0 +1,13 @@
+musica/
+*.mp3
+*.m4a
+*.webm
+
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+.env
+*.log

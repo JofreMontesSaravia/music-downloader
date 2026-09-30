@@ -1,0 +1,6 @@
+.git
+.gitignore
+musica/
+__pycache__/
+*.mp3
+README.md
