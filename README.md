@@ -103,7 +103,7 @@ docker run --rm -it -v "$(pwd)/musica:/downloads" music-downloader
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas (Stack)
 
 - **Lenguaje:** [Python 3.11](https://www.python.org/)
 - **Extractor multimedia:** [yt-dlp](https://github.com/yt-dlp/yt-dlp)
