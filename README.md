@@ -69,7 +69,7 @@ docker build -t music-downloader .
 
 ---
 
-## 🎧 Uso de la Aplicación CLI
+## 🎧 Uso de la Aplicación
 
 Para iniciar el descargador, ejecuta el contenedor en modo interactivo mapeando una carpeta local para almacenar los audios:
 
